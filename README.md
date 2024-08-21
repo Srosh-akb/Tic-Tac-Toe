@@ -1,5 +1,5 @@
 # Tic Tac Toe
-Program determining how many “degrees of separation” apart two actors are.
+CS50AI Project 0b - Program determining how many “degrees of separation” apart two actors are.
 
 ## Instructions
 1. Download this repository to your device.
