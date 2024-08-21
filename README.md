@@ -9,9 +9,9 @@ Program determining how many “degrees of separation” apart two actors are.
 ```bash
 pip3 install -r requirements.txt
 ```
-6. Run the file with Python 3 using the following command
+5. Run the file with Python 3 using the following command
 ```bash
-python degrees.py
+python runner.py
 ```
 6. Follow the prompts by choosing X or O and playing moves
 7. Watch the AI defeat you
@@ -19,5 +19,4 @@ python degrees.py
 ## Background
 Using the Minimax Algorithm, the AI model learns to play tic-tac-toe in the most optimal way, creating an unbeatable player.
 
-The Minimax Algorithm works by considering the best possible options from either players perspective. 
-Therefore, assuming both players play optimally, the AI model can choose the move that has the highest likelihood of yielding success. 
+The Minimax Algorithm works by considering the best possible options from either players perspective. Therefore, assuming both players play optimally, the AI model can choose the move that have the highest likelihood of yielding success. 
